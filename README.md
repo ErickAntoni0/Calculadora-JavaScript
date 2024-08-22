@@ -1,1 +1,1 @@
-Calculadora con JavaScriot, HTML y css
+Calculadora con JavaScript, HTML y css
